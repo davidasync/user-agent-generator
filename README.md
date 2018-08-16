@@ -1,5 +1,8 @@
 # user-agent-generator
 Translated from [mkstayalive | random-user-agent-java](https://github.com/mkstayalive/random-user-agent-java)
+
+Generate Random User-agent strings in java. Useful in web-scraping.
+Just import the file in your project and call
 ```
 RandomUserAgent.getRandomUserAgent()
 ```
